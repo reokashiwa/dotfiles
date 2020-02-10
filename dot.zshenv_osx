@@ -3,5 +3,3 @@ path=(
 /opt/local/sbin /usr/local/sbin /usr/sbin /sbin
 /opt/local/bin /usr/local/bin /usr/bin /bin
 )
-eval "$(rbenv init -)"
-
